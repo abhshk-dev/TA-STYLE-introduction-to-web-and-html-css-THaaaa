@@ -3,11 +3,9 @@ h2{
 }
 body{
     background-color: #22396a;
+    color:white;
 }
-.white{
-    color: #e2e5eb;
-}
-p{
-    color:  #e2e5eb;
-    font-size: 18px;
+
+a{
+    color:red;
 }

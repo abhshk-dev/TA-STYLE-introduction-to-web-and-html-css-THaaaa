@@ -9,13 +9,15 @@ a{
 h2{
     color:#31bb66;
 }
-
-    
-.center{
+header{
     text-align: center;
 }
+    
+
+
 footer{
-    color:#11244d;
-    height:10px;
-    width:auto;
+    background-color:#11244d;
+    height: 25px;
+    width: auto;
+    text-align: center;
 }

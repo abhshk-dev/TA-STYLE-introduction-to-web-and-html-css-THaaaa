@@ -1,0 +1,21 @@
+body{
+    background-color: #22396a;
+    color:white;
+}
+a{
+    color:red;
+
+}
+h2{
+    color:#31bb66;
+}
+
+    
+.center{
+    text-align: center;
+}
+footer{
+    color:#11244d;
+    height:10px;
+    width:auto;
+}

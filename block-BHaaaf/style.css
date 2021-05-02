@@ -1,11 +1,12 @@
-h1{
-    color:black;
-    font-size: 60px;
+.heading{
+    color: cornsilk;
+    font-size: 60px ;
+
 }
-p{
-    color: crimson;
+#unique{
+    color: cyan;
     font-size: 34px;
 }
 body{
-    color:darkblue;
+    background-color:black;
 }
